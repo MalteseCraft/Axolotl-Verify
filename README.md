@@ -15,7 +15,7 @@ A Discord verification bot with DM-based mathematical challenges and staff notif
 
 - [Terms of Service](TERMS_OF_SERVICE.md)
 - [Privacy Policy](PRIVACY_POLICY.md)
-- [Website](https://malt esecraft.github.io/Axolotl-Verify/)
+- [Official website](https://maltesecraft.github.io/Axolotl-Verify/)
 
 ## Setup
 
@@ -25,7 +25,7 @@ A Discord verification bot with DM-based mathematical challenges and staff notif
 4. Configure the staff Discord user ID through a secure environment variable.
 5. Invite the bot with only the permissions and intents it needs.
 
-The uploaded source currently contains a hard-coded bot token. **Revoke/reset that token immediately** in the Discord Developer Portal before running or publishing the source. Do not commit the old or replacement token.
+The supplied source contained a hard-coded bot token. **Revoke/reset that token immediately** in the Discord Developer Portal before running or publishing the source. Do not commit the old or replacement token.
 
 ## Legal contact
 
